@@ -19,3 +19,6 @@ It is a file where we have written our logic to perform the action.
 
 What is .feature file?
 It is a gherkin file where we have written whats being automated in plain english langauge using Gherkin (Given, When, Then) concept.
+
+What is package.json file?
+It is a file which contains the dependencies and when we run npm install, it downloads the node mudules mentioned under devDependencies
